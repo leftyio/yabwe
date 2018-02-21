@@ -1,6 +1,6 @@
 Wrap of [MediumEditor](https://github.com/yabwe/medium-editor)
 
-##Basic usage
+## Basic usage
 
 ```html
 <div class="editable"></div>
