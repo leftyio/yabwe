@@ -1,5 +1,5 @@
 name: yabwe
-description: Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+description: Wrap of Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 version: 0.0.1
 homepage: https://lefty.io
 author: Kevin Segaud <segaud.kevin@gmail.com>
